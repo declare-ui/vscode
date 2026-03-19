@@ -40,9 +40,9 @@ Open any `.ui.yaml` file and the extension activates automatically. Use the comm
 
 | Package | Description |
 |:--------|:------------|
-| [`@declareui/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
-| [`@declareui/mcp`](https://github.com/declare-ui/mcp) | MCP server for AI agents |
-| [`@declareui/components`](https://github.com/declare-ui/components) | Pre-built component library |
+| [`@declareuihq/core`](https://github.com/declare-ui/core) | Parser, AST, and code generators |
+| [`@declareuihq/mcp`](https://github.com/declare-ui/mcp) | MCP server for AI agents |
+| [`@declareuihq/components`](https://github.com/declare-ui/components) | Pre-built component library |
 
 ## Contributing
 
